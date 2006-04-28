@@ -16,8 +16,8 @@ Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 URL:		http://pear.php.net/package/Validate_ES/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
-Requires:	php-pear
 Requires:	php-common >= 3:4.2.0
+Requires:	php-pear
 Requires:	php-pear-Validate >= 0.5.0
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
@@ -29,7 +29,7 @@ Package containes locale validation for ES such as:
 In PEAR status of this package is: %{_status}.
 
 %description -l pl
-Klasa do sprawdzania poprawno¶ci danych dla Hiszpanii:
+Klasa do sprawdzania poprawno¶ci dla Hiszpanii danych takich jak:
 - DNI
 
 Ta klasa ma w PEAR status: %{_status}.
