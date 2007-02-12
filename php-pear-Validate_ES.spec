@@ -5,7 +5,7 @@
 %define		_pearname	Validate_ES
 
 Summary:	%{_pearname} - Validation class for ES
-Summary(pl):	%{_pearname} - Klasa sprawdzaj±ca poprawno¶æ dla Hiszpanii
+Summary(pl.UTF-8):   %{_pearname} - Klasa sprawdzajÄ…ca poprawnoÅ›Ä‡ dla Hiszpanii
 Name:		php-pear-%{_pearname}
 Version:	0.5.1
 Release:	1
@@ -29,8 +29,8 @@ Package containes locale validation for ES such as:
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-Klasa do sprawdzania poprawno¶ci dla Hiszpanii danych takich jak:
+%description -l pl.UTF-8
+Klasa do sprawdzania poprawnoÅ›ci dla Hiszpanii danych takich jak:
 - DNI
 
 Ta klasa ma w PEAR status: %{_status}.
