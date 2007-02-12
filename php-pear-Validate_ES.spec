@@ -5,7 +5,7 @@
 %define		_pearname	Validate_ES
 
 Summary:	%{_pearname} - Validation class for ES
-Summary(pl.UTF-8):   %{_pearname} - Klasa sprawdzająca poprawność dla Hiszpanii
+Summary(pl.UTF-8):	%{_pearname} - Klasa sprawdzająca poprawność dla Hiszpanii
 Name:		php-pear-%{_pearname}
 Version:	0.5.1
 Release:	1
