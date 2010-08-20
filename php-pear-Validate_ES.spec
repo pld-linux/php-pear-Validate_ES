@@ -7,12 +7,12 @@
 Summary:	%{_pearname} - Validation class for ES
 Summary(pl.UTF-8):	%{_pearname} - Klasa sprawdzająca poprawność dla Hiszpanii
 Name:		php-pear-%{_pearname}
-Version:	0.5.1
-Release:	2
+Version:	0.6.0
+Release:	1
 License:	New BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	b52f878a00ea7f1c16e2d92da00edd33
+# Source0-md5:	6e9c25c0874d7919271dcf1d4d7d5dff
 URL:		http://pear.php.net/package/Validate_ES/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
