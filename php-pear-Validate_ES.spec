@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_status		alpha
 %define		_pearname	Validate_ES
 Summary:	%{_pearname} - Validation class for ES
